@@ -3,8 +3,6 @@ Este repositório contém dados e scripts suplementares do artigo "Curadoria dig
 
 ## **Como citar este trabalho**
 
-Para citar, por favor, utilize o seguinte formato : 
-
 BRINCO, Naicon de Souza. Curadoria digital e ciência aberta: organização dos anais do ENPEH e Perspectivas (1988-2020). _Revista História Hoje_. XXXXXXXXXXXXXXXX  XXXXXXXXX
 
 **Ao utilizar esse repositório em sua pesquisa, por favor, cite o artigo acima.**   
